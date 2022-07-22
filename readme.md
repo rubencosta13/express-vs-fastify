@@ -1,5 +1,7 @@
 # Fastify vs Express
 
+### Consider leaving a star, it helps a lot. And motivates me to do more things like this
+
 - Challenge: 
 
 1. Load random data to a mongodb database
