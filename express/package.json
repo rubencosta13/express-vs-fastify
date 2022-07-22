@@ -1,0 +1,48 @@
+{
+  
+  "name": "express",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "type": "module",
+  
+  "scripts": {
+  
+    
+  "start": "node src/index.js"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": "",
+  
+  "dependencies": {
+  
+    
+  "dotenv": "^16.0.1",
+  
+    
+  "express": "^4.18.1",
+  
+    
+  "faker": "^5.5.3",
+  
+    
+  "mongoose": "^6.4.6"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@types/faker": "^6.6.9"
+  
+  }
+}
