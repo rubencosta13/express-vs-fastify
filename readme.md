@@ -136,6 +136,6 @@ Req/Bytes counts sampled once per second.
 | All Records | 483 requests in 10.03s [ 103MB read ] | 464 requests in 10.02s [ 99.1 MB read]        |
 
 
-> You can now get your own conclusions... We won't give any oppinionated conclusion.
+> You can now get your own conclusions... We won't give any opinionated conclusion.
 
 # Do you think we missed any part / any improment open an issue.
