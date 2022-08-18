@@ -140,4 +140,4 @@ Req/Bytes counts sampled once per second.
 
 > You can now get your own conclusions... We won't give any opinionated conclusion.
 
-# Do you think we missed any part / any improment open an issue.
+# Do you think we missed any part / any improvement open an issue.
